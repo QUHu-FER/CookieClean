@@ -25,7 +25,8 @@
   <h3>💝 Support the Development</h3>
   <p>If you find this extension helpful, consider supporting its development!</p>
   
-  [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue.svg)]([https://paypal.me/agenk000](https://paypal.me/ferdisa7?country.x=ID&locale.x=id_ID))
+  [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue.svg)](https://paypal.me/ferdisa7?country.x=ID&locale.x=id_ID)
+
   
   <p><i>Your support helps maintain and improve CookieClean!</i></p>
 </div>
@@ -166,7 +167,7 @@ Feel free to submit issues and enhancement requests!
 
 If you find CookieClean useful, please consider supporting its development:
 
-- **PayPal**: [Donate via PayPal](https://paypal.me/agenk000)
+- **PayPal**: [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue.svg)](https://paypal.me/ferdisa7?country.x=ID&locale.x=id_ID)
 - **Share**: Tell others about CookieClean
 - **Star**: Give us a star on GitHub
 - **Feedback**: Share your thoughts and suggestions
