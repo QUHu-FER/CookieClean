@@ -25,7 +25,7 @@
   <h3>💝 Support the Development</h3>
   <p>If you find this extension helpful, consider supporting its development!</p>
   
-  [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue.svg)](https://paypal.me/agenk000)
+  [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue.svg)]([https://paypal.me/agenk000](https://paypal.me/ferdisa7?country.x=ID&locale.x=id_ID))
   
   <p><i>Your support helps maintain and improve CookieClean!</i></p>
 </div>
